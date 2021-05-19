@@ -1,5 +1,5 @@
 #* This script contains the tutorial of mechanical soup.
-# https://mechanicalsoup.readthedocs.io/en/stable/
+# https://mechanicalsoup.readthedocs.io/en/stable/ for reference
 import mechanicalsoup
 
 # we will create a browser of mechanical soup
