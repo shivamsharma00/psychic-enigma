@@ -1,0 +1,35 @@
+//
+! Git Commands
+? Directory -> Folder
+
+TODO : GIT - tracks the changes in code
+TODO : GITHUB - a website that hosts our code.
+
+! Clone
+Bring a repository that is hosted somewhere like Github into a folder on your local machine.
+
+! add
+Track your files and changes in Git
+
+! Commit 
+save you file in Git
+
+! push
+upload git commits to a remote repo like Github
+
+! pull
+Download changes from remote repo to ypur local machine, the opposite of push
+
+
+? git init
+initializes the repository
+
+? git status
+to see the status of the repository
+
+? git add <filename>
+to stage the file
+
+? git commit -m "Commit message"
+To commit the changes
+
