@@ -21,6 +21,9 @@ upload git commits to a remote repo like Github
 Download changes from remote repo to ypur local machine, the opposite of push
 
 
+
+
+TODO : FOR LOCAL MACHINE
 ? git init
 initializes the repository
 
@@ -33,3 +36,26 @@ to stage the file
 ? git commit -m "Commit message"
 To commit the changes
 
+
+TODO : FOR REMOTE REPOSITORY LIKE GIT HUB
+? git remote add origin <repository url>
+To add remote repository
+
+? git push -u origin master
+To push changes on remote repository
+
+? git remote set-url origin <repository url>
+TO replace origin
+
+
+? git branch -m <branch name>
+To create a branch
+
+? git add .
+add everything in repository
+
+? git checkout -b <new branch>
+To switch branch
+
+? git merge master
+to merge with master branch
