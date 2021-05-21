@@ -35,6 +35,7 @@ to stage the file
 
 ? git commit -m "Commit message"
 To commit the changes
+! always use double quotes in windows.
 
 
 TODO : FOR REMOTE REPOSITORY LIKE GIT HUB
